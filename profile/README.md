@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![profile](./profile.svg)
+![profile](https://raw.githubusercontent.com/KotwOSS/.github/main/profile/profile.svg)
 
 <!--
 
