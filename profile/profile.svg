@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="246" height="90">
+    <style>
+        @font-face {
+            font-family: "Rubik Burned";
+            src: url("./fonts/rubik.ttf");
+        }
+
+        @font-face {
+            font-family: "Poppins";
+            src: url("./fonts/poppins.ttf");
+        }
+
+        .header {
+            font: 300 50px 'Rubik Burned', cursive;
+            fill: #fff;
+        }
+
+        .badge {
+            font-family: 'Poppins', sans-serif;
+            fill: #000;
+            animation: 1s badge ease forwards;
+        }
+
+        .badge-back {
+            fill: orange;
+            animation: 5s badge-back linear infinite;
+        }
+
+        .badge-back.two {
+            animation-delay: 1s;
+        }
+
+        .badge-back.three {
+            animation-delay: 2s;
+        }
+
+        @keyframes badge-back {
+            0% {
+                fill: orange;
+            }
+            50% {
+                fill: #d68b00;
+            }
+            100% {
+                fill: orange;
+            }
+        }
+    </style>
+
+    <rect width="246" height="90" rx="10" ry="10" fill="black"/>
+
+    <text class="header" x="0" y="50">KotwOSS</text>
+
+    <rect class="badge-back one" x="0" y="60" width="72" height="20" rx="5" ry="5"/>
+    <text class="badge" x="7" y="75">Explore</text>
+    <rect class="badge-back two" x="90" y="60" width="70" height="20" rx="5" ry="5"/>
+    <text class="badge" x="97" y="75">Create</text>
+    <rect class="badge-back three" x="180" y="60" width="62" height="20" rx="5" ry="5"/>
+    <text class="badge" x="187" y="75">Share</text>
+</svg>

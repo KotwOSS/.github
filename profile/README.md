@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![profile](./profile.svg)
+
 <!--
 
 **Here are some ideas to get you started:**
