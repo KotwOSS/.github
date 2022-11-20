@@ -2,13 +2,7 @@
 
 ![profile](https://raw.githubusercontent.com/KotwOSS/.github/main/profile/profile.svg)
 
-<!--
-lol
-**Here are some ideas to get you started:**
+This is KotwOSS - The opensource github organisation. [Website](https://oss.kotw.dev/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Joining KotwOSS
+If you are considering to join KotwOSS, either open a Ticket in [this Discord server](https://discord.gg/Cq2UpzeTnm) or send an email to [kekontheworld@gmail.com](mailto:kekontheworld@gmail.com)
